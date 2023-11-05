@@ -1,0 +1,12 @@
+{
+  "name": "chaos-coding-cabaret",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dario Pavoni <darioskpavoni@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:client": "cd client && yarn start",
+    "dev:server": "cd server && yarn dev"
+  }
+  "dependencies": {},
+  "devDependencies": {}
